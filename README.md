@@ -77,6 +77,10 @@ Colors and fonts are easy to read and acessible.
 
 No unfixed bugs
 
+- Deployment
+
+[Gym 4 you](https://guiiilhermee.github.io/index.html/)
+
 - credits
 
 content:
