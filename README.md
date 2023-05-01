@@ -40,6 +40,9 @@ On this section can see the how to do it gifs and follow step by step each exerc
 
 The user  can find all social media.
 
+![image](https://user-images.githubusercontent.com/127660583/235499675-e2ee5c10-330e-4ac0-b386-db407c0468ec.png)
+
+
 - Testing
 I tested this page on different browsers: Chrome, Google Edge, Firefox.
 
@@ -47,14 +50,14 @@ I confirm that this project is responsive, looks good and fits on all screen siz
 
 I confirm that this project is easy to understand with any age.
 
-Bugs
+- Bugs
 Solved bugs
 
 Sometimes when I run vscode does not work and I fixed it deletind the .vscode file on the same folder that all the files are on and launch it again.
 
 launch.JSON
 
-Validator testing
+ -Validator testing
 HTML
 
 Document checked. No errors or warnings were found. (Oficial W3C validator)
@@ -65,27 +68,21 @@ Document checked. No errors or warnings were found. (oficial Jigsaw validator)
 
 Accessibility
 
-Colors and fonts are easy to read and
+Colors and fonts are easy to read and acessible.
 
 ![image](https://user-images.githubusercontent.com/127660583/235450572-413efd82-f841-4b40-8377-9ccdfce55bee.png)
 
 
-Unfixed bugs
--No unfixed bugs
+- Unfixed bugs
+
+No unfixed bugs
 
 - credits
-content 
-  The gifs were taken from fitness programer and the calculator from calculator.net.
+
+content:
+
+The gifs were taken from fitness programer and the calculator from calculator.net.
 
 
 - media
-The main image was taken from intense work out.
-
-
-
-
-
-
-
-
-
+The main image was taken from intense work out and how to do the exercises step by step are from muscle wiki.
