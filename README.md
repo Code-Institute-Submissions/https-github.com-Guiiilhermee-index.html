@@ -5,7 +5,7 @@ The Gym 4 you is a website for people who wants to start exercises, a body chang
 
 Users can find on this website a calorie calculator with goal, very basics exercises which they can start from home and few tips on what they should do.
 
-![image](https://user-images.githubusercontent.com/127660583/234724615-f0decd0e-2152-4a31-b500-43a4c7ac9d1d.png)
+![image](https://user-images.githubusercontent.com/127660583/235450810-78d86bcc-9208-46f9-937c-a3a855f70712.png)
 
 ## Features
 
@@ -18,7 +18,7 @@ The menu bar is in the right side which links to different sections.
 
 Shows the name of the website and on the photo explains what is all about.
 
-![image](https://user-images.githubusercontent.com/127660583/234725273-a7e60ba4-a0f5-4342-ba3b-4f38fbbe1919.png)
+![image](https://user-images.githubusercontent.com/127660583/235451000-dc8e21fc-1338-4a6d-b965-fd0f8bcaca1c.png)
 
 - Calorie calculator
 
@@ -26,7 +26,7 @@ In this section the user can give all basics details and find out how many calor
 
 Basic details are gender, age, weight, height, activity and goal.
 
-![image](https://user-images.githubusercontent.com/127660583/234725649-cded57e0-d1f7-4206-a592-f36f024dc3e3.png)
+![image](https://user-images.githubusercontent.com/127660583/235451165-ee42e2c7-3f15-4347-b0dd-40e46c439625.png)
 
 - Exercises
 
@@ -41,26 +41,34 @@ On this section can see the how to do it gifs and follow step by step each exerc
 The user  can find all social media.
 
 - Testing
+I tested this page on different browsers: Chrome, Google Edge, Firefox.
 
-- Bugs
+I confirm that this project is responsive, looks good and fits on all screen sizes.
 
+I confirm that this project is easy to understand with any age.
+
+Bugs
 Solved bugs
-- 
 
-- 
+Sometimes when I run vscode does not work and I fixed it deletind the .vscode file on the same folder that all the files are on and launch it again.
 
-- validator testing
+launch.JSON
+
+Validator testing
 HTML
 
-Document checked. No errors or warnings were found.
+Document checked. No errors or warnings were found. (Oficial W3C validator)
 
-CSS No errors or warnings were found.
+CSS
 
-Accessibility Colors and fonts
+Document checked. No errors or warnings were found. (oficial Jigsaw validator)
 
-To run tests, run the following command
+Accessibility
 
-<print screen of accessibility readme>
+Colors and fonts are easy to read and
+
+![image](https://user-images.githubusercontent.com/127660583/235450572-413efd82-f841-4b40-8377-9ccdfce55bee.png)
+
 
 Unfixed bugs
 -No unfixed bugs
@@ -72,6 +80,7 @@ content
 
 - media
 The main image was taken from intense work out.
+
 
 
 
